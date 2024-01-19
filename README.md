@@ -24,5 +24,6 @@ Visualisasi tersebut menyajikan Rating pada Netflix, yang merupakan sistem penil
 Visualisasi peta ini menggambarkan total jumlah Film dan acara TV per negara dalam rentang waktu tertentu (2008 - 2021). Dari peta tersebut, terlihat bahwa Amerika Serikat memiliki kontribusi terbesar, diikuti oleh India dalam hal jumlah konten. Artinya, Amerika Serikat menyumbang jumlah konten terbanyak, sementara India menduduki posisi berikutnya dalam kontribusinya terhadap produksi Film dan acara TV.
 
 Dari beberapa visualisasi data diatas, kami rangkum menjadi sebuah Dashboard Visualisasi Data Netflix menggunakan Google Looker Studio seperti berikut ini.
+
 ![image](https://github.com/ismasafitri/visualisasidataa/assets/118493806/718bf77f-2207-4cfc-b625-36238601dd2b)
 
